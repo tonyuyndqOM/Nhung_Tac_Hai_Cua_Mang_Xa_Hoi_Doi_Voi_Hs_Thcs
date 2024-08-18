@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    display: flex;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    background: seashell;
+}
+.navbar {
+    display: flex;
+    overflow: hidden;
+    width: 100vw;
+    height: 3rem;
+    background: darkslategrey;
+}
+.content {
+    height: 3rem;
+    color: white;
+    font-family: Helvetica;
+    margin-right: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.content:hover, .content:active {
+    background: slategrey;
+}
+.container {
+    overflow: scroll;
+    width: 100vw;
+    height: 100%;
+    color: black;
+    font-family: Verdana;
+}
