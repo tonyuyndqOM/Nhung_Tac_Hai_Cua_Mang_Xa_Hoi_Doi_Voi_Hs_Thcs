@@ -1,15 +1,3 @@
-var pages = [
-    "<span>Lorem<br>Ipsum<br>Dolor!</span>",
-    "free Cookie!"
-];
-var titles = [
-    "Lorem",
-    "Cookie!"
-]
-var navbtn = [
-    "Test",
-    "Cookie"
-]
 function openpage(n) {
     $("#main").html(pages[n]);
     $("title").html(titles[n]);
