@@ -31,6 +31,11 @@ body {
     align-items: center;
     justify-content: center;
     text-decoration: none;
+    text-wrap: nowrap;
+}
+.blankspace {
+    height: 4rem;
+    width: 100%;
 }
 .content:hover, .content:active {
     background: #6A9C89;
@@ -56,11 +61,64 @@ body {
 .titleimg {
     background-image: url(image.png);
     background-size: 100%;
-    width: 100vw;
-    height: 500px;
+    background-repeat: no-repeat;
+    height: 300px;
     border-bottom: 2px solid #16423C;
 }
-h1 {
+.sbflexbox {
+    display: flex;
+    width: 100vw;
+    min-height: 100vh;
+    background: #E9EFEC;
+}
+.sb {
+    min-height: 100vh;
+    width: 200px;
+    min-width: 200px;
+    background: #6A9C89;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    text-wrap: nowrap;
+}
+.sb > a {
+    padding: 10px;
+    text-decoration: none;
+    color: #E9EFEC;
+}
+.sb > a:hover , .sb > a:active, .selhyp {
+    background: #16423C;
+}
+.more {
+    width: 100%;
+    overflow: hidden;
+}
+.more > span {
+    margin: 30px;
+    overflow: hidden;
+    display: inline-block;
+    font-size: larger;
+}
+li {
+    display: list-item;
+    margin: 60px;
+    font-size: larger;
+}
+h1, h4 {
     display: flex;
     justify-content: center;
+}
+.footer {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    background: #16423C;
+}
+.footer > a {
+    color: #C4DAD2;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 40px;
 }
