@@ -6,6 +6,7 @@ var pages = [
 <a href="javascript:openpage(2)">Dùng MXH an toàn</a>
 <a href="javascript:openpage(3)">Tài nguyên hữu ích</a>
 <a href="javascript:openpage(4)">Về chúng tôi</a>
+<a href="javascript:openpage(5)">Trò Chuyện</a>
 </div>
 <div class="more">
 <div class="titleimg"></div>
@@ -19,14 +20,16 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 </div>
 </div>
 <div class="footer">
-<a href="javascript:openpage(5)">Tìm hiểu thêm</a>
-<a href="javascript:openpage(6)">Hướng dẫn cho phụ huynh</a>
-<a href="javascript:openpage(7)">Câu chuyện từ học sinh</a>
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
 </div>`,
 `<div class="sbflexbox">
 <div class="sb">
 <a href="javascript:openpage(0)">Trang Chủ</a>
 <a href="javascript:undopage()">Quay Về</a>
+<a href="javascript:openpage(5)">Trò Chuyện</a>
+<a href="javascript:openpage(5)">Tài Liệu</a>
 </div>
 <div class="more">
 <span>Việc sử dụng mạng xã hội và các thiết bị điện tử quá nhiều làm gia tăng các vấn đề liên quan đến sức khỏe tâm lý. Tiếp xúc quá mức với các nền tảng mạng xã hội, dễ bị ảnh hưởng bởi những vấn đề như căng thẳng, lo âu, và trầm cảm. Những em dành quá nhiều thời gian vào việc sử dụng điện thoại và tham gia mạng xã hội có xu hướng ít ngủ, gây ra rối loạn giấc ngủ. Điều này không chỉ làm suy giảm khả năng học tập mà còn ảnh hưởng nghiêm trọng đến sức khỏe tổng thể.</span><br/>
@@ -37,17 +40,17 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 </div>
 </div>
 <div class="footer">
-<a href="javascript:openpage(5)">Tìm hiểu thêm</a>
-<a href="javascript:openpage(6)">Hướng dẫn cho phụ huynh</a>
-<a href="javascript:openpage(7)">Câu chuyện từ học sinh</a>
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
 </div>`,
 `<div class="sbflexbox">
 <div class="sb">
 <a href="javascript:openpage(0)">Trang Chủ</a>
 <a href="javascript:undopage()">Quay Về</a>
 <a class="selhyp" href="javascript:openpage(2)">Cho Học Sinh</a>
-<a href="javascript:openpage(8)">Cho Phụ Huynh</a>
-<a href="javascript:openpage(9)">Cho Giáo Viên</a>
+<a href="javascript:openpage(9)">Cho Phụ Huynh</a>
+<a href="javascript:openpage(10)">Cho Giáo Viên</a>
 </div>
 <div class="more">
 <span>Học sinh cần có nhận thức đúng về tầm quan trọng và tác hại của việc sử dụng MXH không đúng mục đích. Một số cách học sinh có thể sử dụng MXH một cách hiệu quả nhất như:</span>
@@ -61,22 +64,43 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 </div>
 </div>
 <div class="footer">
-<a href="javascript:openpage(5)">Tìm hiểu thêm</a>
-<a href="javascript:openpage(6)">Hướng dẫn cho phụ huynh</a>
-<a href="javascript:openpage(7)">Câu chuyện từ học sinh</a>
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
 </div>`,
-`ph`,
+`<div class="full">
+<a href="file.docx" target="_blank" class="gotohyper">Tải Về</a>
+<a href="javascript:openpage(11)" class="gotohyper">Đến File</a>
+</div>`,
 `<div class="sbflexbox">
 <div class="sb">
 <a href="javascript:openpage(0)">Trang Chủ</a>
 <a href="javascript:undopage()">Quay Về</a>
+<a href="javascript:openpage(5)">Trò Chuyện</a>
+<a href="javascript:openpage(5)">Tài Liệu</a>
 </div>
 <div class="more"><span>Chúng tôi gồm Minh Trí và Quốc Uy - học sinh lớp 7A3 trường THPT chuyên Trần Đại Nghĩa. Chúng tôi tạo website này mong muốn các bạn đọc giả đặc biệt trong độ tuổi THCS có thể nhận thấy những tác hại của việc sử dụng mạng xã hội và tiếp cận được một số biện pháp giảm thiểu những tác hại ấy đối với việc học.</span></div>
 </div>
 <div class="footer">
-<a href="javascript:openpage(5)">Tìm hiểu thêm</a>
-<a href="javascript:openpage(6)">Hướng dẫn cho phụ huynh</a>
-<a href="javascript:openpage(7)">Câu chuyện từ học sinh</a>
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
+</div>`,
+`<div class="sbflexbox">
+<div class="sb">
+<a href="javascript:openpage(0)">Trang Chủ</a>
+<a href="javascript:undopage()">Quay Về</a>
+<a href="javascript:openpage(1)">Tác Hại của MXH</a>
+<a href="javascript:openpage(2)">Dùng MXH an toàn</a>
+<a href="javascript:openpage(3)">Tài nguyên hữu ích</a>
+<a href="javascript:openpage(4)">Về chúng tôi</a>
+</div>
+<div class="more"><span>Bạn sẽ được đến <a target="_blank" href="https://github.com/tonyuyndqOM/Nhung_Tac_Hai_Cua_Mang_Xa_Hoi_Doi_Voi_Hs_Thcs/discussions">trò chuyện</a> trong vài giây</span></div>
+</div>
+<div class="footer">
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
 </div>`,
 `Tìm hiểu thêm`,
 `Hướng dẫn cho phụ huynh`,
@@ -86,8 +110,8 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <a href="javascript:openpage(0)">Trang Chủ</a>
 <a href="javascript:undopage()">Quay Về</a>
 <a href="javascript:openpage(2)">Cho Học Sinh</a>
-<a class="selhyp" href="javascript:openpage(8)">Cho Phụ Huynh</a>
-<a href="javascript:openpage(9)">Cho Giáo Viên</a>
+<a class="selhyp" href="javascript:openpage(9)">Cho Phụ Huynh</a>
+<a href="javascript:openpage(10)">Cho Giáo Viên</a>
 </div>
 <div class="more">
 <span>Phụ huynh cần tăng cường vai trò giám sát, hướng dẫn con em về việc sử dụng MXH một cách có kiểm soát. Một số cách phụ huynh cần làm như:</span>
@@ -100,17 +124,17 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 </div>
 </div>
 <div class="footer">
-<a href="javascript:openpage(5)">Tìm hiểu thêm</a>
-<a href="javascript:openpage(6)">Hướng dẫn cho phụ huynh</a>
-<a href="javascript:openpage(7)">Câu chuyện từ học sinh</a>
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
 </div>`,
 `<div class="sbflexbox">
 <div class="sb">
 <a href="javascript:openpage(0)">Trang Chủ</a>
 <a href="javascript:undopage()">Quay Về</a>
 <a href="javascript:openpage(2)">Cho Học Sinh</a>
-<a href="javascript:openpage(8)">Cho Phụ Huynh</a>
-<a class="selhyp" href="javascript:openpage(9)">Cho Giáo Viên</a>
+<a href="javascript:openpage(9)">Cho Phụ Huynh</a>
+<a class="selhyp" href="javascript:openpage(10)">Cho Giáo Viên</a>
 </div>
 <div class="more">
 <span>Học sinh cần có nhận thức đúng về tầm quan trọng và tác hại của việc sử dụng MXH không đúng mục đích. Một số cách học sinh có thể sử dụng MXH một cách hiệu quả nhất như:</span>
@@ -124,10 +148,13 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 </div>
 </div>
 <div class="footer">
-<a href="javascript:openpage(5)">Tìm hiểu thêm</a>
-<a href="javascript:openpage(6)">Hướng dẫn cho phụ huynh</a>
-<a href="javascript:openpage(7)">Câu chuyện từ học sinh</a>
-</div>`
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
+</div>`,
+`
+hello
+`
 ];
 var titles = [
     "Những Tác Hại Của Mạng Xã Hội Đối Với Học Sinh THCS",
@@ -135,15 +162,19 @@ var titles = [
     "Hướng Dẫn Sử Dụng Mạng Xã Hội An Toàn Dành Cho Học Sinh",
     "Tài Nguyên Hữu Ích",
     "Về Chúng Tôi",
+    "Trò Chuyện Ở Đây",
     "1",
     "2",
     "3",
     "Hướng Dẫn Sử Dụng Mạng Xã Hội An Toàn Dành Cho Phụ Huynh",
-    "Hướng Dẫn Sử Dụng Mạng Xã Hội An Toàn Dành Cho Giáo Viên"
+    "Hướng Dẫn Sử Dụng Mạng Xã Hội An Toàn Dành Cho Giáo Viên",
+    "file"
 ]
 var navbtn = [
     "Tác Hại Của MXH",
     "Sử Dụng MXH An Toàn",
     "Tài Nguyên Hữu Ích",
-    "Về Chúng Tôi"
+    "Về Chúng Tôi",
+    "Trò Chuyện Ở Đây"
 ]
+//https://github.com/tonyuyndqOM/Nhung_Tac_Hai_Cua_Mang_Xa_Hoi_Doi_Voi_Hs_Thcs/discussions

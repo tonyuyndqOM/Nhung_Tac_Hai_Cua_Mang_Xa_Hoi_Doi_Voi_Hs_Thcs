@@ -6,6 +6,9 @@ function openpage(n) {
     currentpage++;
     $("#main").html(pages[n]);
     $("title").html(titles[n]);
+    if(n == 5) {
+        window.open("https://github.com/tonyuyndqOM/Nhung_Tac_Hai_Cua_Mang_Xa_Hoi_Doi_Voi_Hs_Thcs/discussions", "_blank");
+    }
 }
 function undopage() {
     if(currentpage == 0) {
