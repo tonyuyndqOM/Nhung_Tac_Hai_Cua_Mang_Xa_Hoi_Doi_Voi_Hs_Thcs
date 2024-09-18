@@ -2,7 +2,7 @@ var pages = [
 `
 <div class="sbflexbox">
 <div class="sb">
-<a href="javascript:openpage(1)">Tác Hại của MXH</a>
+<a href="javascript:openpage(1)">Tác Động của MXH</a>
 <a href="javascript:openpage(2)">Dùng MXH an toàn</a>
 <a href="javascript:openpage(3)">Tài nguyên hữu ích</a>
 <a href="javascript:openpage(4)">Về chúng tôi</a>
@@ -10,12 +10,12 @@ var pages = [
 </div>
 <div class="more">
 <div class="titleimg"></div>
-<h1>Những Tác Hại Của Mạng Xã Hội Đối Với Học Sinh THCS</h1>
+<h1>Những Tác Động Của Mạng Xã Hội Đối Với Học Sinh THCS</h1>
 <span>
 Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống của học sinh trung học cơ sở (THCS) tại TP.HCM, đóng vai trò vừa là công cụ hỗ trợ học tập và kết nối xã hội, vừa là môi trường giải trí. Với sự phát triển mạnh mẽ của công nghệ thông tin, học sinh tại các thành phố lớn như TP.HCM dễ dàng tiếp cận các nền tảng như Facebook, Instagram, TikTok, tạo điều kiện cho các em chia sẻ kiến thức, trao đổi bài vở và mở rộng các mối quan hệ bạn bè. Việc sử dụng hợp lý, mạng xã hội có thể giúp học sinh phát triển kỹ năng giao tiếp, học hỏi từ cộng đồng và hỗ trợ trong việc tiếp cận thông tin nhanh chóng và hiệu quả. Đồng thời, các nền tảng này còn thúc đẩy sự sáng tạo thông qua việc tham gia các dự án trực tuyến, các hoạt động ngoại khóa hoặc tham gia nhóm học tập từ xa, đặc biệt hữu ích trong bối cảnh giãn cách xã hội do đại dịch COVID-19. Tuy nhiên, bên cạnh những lợi ích, việc sử dụng mạng xã hội quá mức cũng đặt ra nhiều thách thức, đặc biệt về sức khỏe tâm lý và kết quả học tập của học sinh. Việc dành quá nhiều thời gian trên các nền tảng trực tuyến có thể dẫn đến các vấn đề về căng thẳng, lo âu, thậm chí là trầm cảm, do áp lực phải duy trì hình ảnh và so sánh bản thân với những hình mẫu lý tưởng không thực tế. Ngoài ra, sự phụ thuộc vào mạng xã hội còn gây ra suy giảm khả năng tập trung, giảm hiệu quả trong việc hoàn thành bài tập và học tập, do học sinh bị xao nhãng bởi các nội dung giải trí hoặc tương tác không liên quan. Thêm vào đó, hiện tượng bắt nạt qua mạng (cyberbullying) cũng ngày càng phổ biến, gây ảnh hưởng tiêu cực đến tâm lý và hành vi của các em.
 </span><br/>
 <span>
-Để giảm thiểu các tác động tiêu cực của mạng xã hội đối với học sinh THCS, cần có các giải pháp từ nhiều phía. Gia đình đóng vai trò quan trọng trong việc quản lý thời gian sử dụng mạng xã hội của con cái, đặt ra các quy định rõ ràng về thời gian và nội dung truy cập. Đồng thời, việc tăng cường giao tiếp giữa cha mẹ và con cái là cần thiết để hiểu rõ những trải nghiệm của các em trên mạng và hỗ trợ khi cần thiết. Nhà trường cũng cần đóng vai trò trong việc giáo dục học sinh về an toàn mạng, cung cấp thông tin về các nguy cơ và cách phòng tránh khi sử dụng mạng xã hội. Các chương trình học về kỹ năng số nên được tích hợp vào giáo trình, giúp học sinh hiểu rõ hơn về cách sử dụng mạng xã hội một cách có trách nhiệm và an toàn. Cuối cùng, sự hỗ trợ từ các tổ chức xã hội và các nền tảng mạng xã hội cũng rất quan trọng trong việc tạo ra các công cụ giám sát, bảo vệ người dùng trẻ tuổi khỏi những tác động tiêu cực. Đặc biệt, việc thay đổi nhận thức của chính bản thân các em học sinh là biện pháp then chốt giúp các em tránh được những tác hại từ mạng xã hội.
+Để giảm thiểu các tác động tiêu cực của mạng xã hội đối với học sinh THCS, cần có các giải pháp từ nhiều phía. Gia đình đóng vai trò quan trọng trong việc quản lý thời gian sử dụng mạng xã hội của con cái, đặt ra các quy định rõ ràng về thời gian và nội dung truy cập. Đồng thời, việc tăng cường giao tiếp giữa cha mẹ và con cái là cần thiết để hiểu rõ những trải nghiệm của các em trên mạng và hỗ trợ khi cần thiết. Nhà trường cũng cần đóng vai trò trong việc giáo dục học sinh về an toàn mạng, cung cấp thông tin về các nguy cơ và cách phòng tránh khi sử dụng mạng xã hội. Các chương trình học về kỹ năng số nên được tích hợp vào giáo trình, giúp học sinh hiểu rõ hơn về cách sử dụng mạng xã hội một cách có trách nhiệm và an toàn. Cuối cùng, sự hỗ trợ từ các tổ chức xã hội và các nền tảng mạng xã hội cũng rất quan trọng trong việc tạo ra các công cụ giám sát, bảo vệ người dùng trẻ tuổi khỏi những tác động tiêu cực. Đặc biệt, việc thay đổi nhận thức của chính bản thân các em học sinh là biện pháp then chốt giúp các em tránh được những tác động từ mạng xã hội.
 </span>
 </div>
 </div>
@@ -53,7 +53,7 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <a href="javascript:openpage(10)">Cho Giáo Viên</a>
 </div>
 <div class="more">
-<span>Học sinh cần có nhận thức đúng về tầm quan trọng và tác hại của việc sử dụng MXH không đúng mục đích. Một số cách học sinh có thể sử dụng MXH một cách hiệu quả nhất như:</span>
+<span>Học sinh cần có nhận thức đúng về tầm quan trọng và tác động của việc sử dụng MXH không đúng mục đích. Một số cách học sinh có thể sử dụng MXH một cách hiệu quả nhất như:</span>
 <ul>
 <li>Đặt mục đích chính đáng sử dụng MXH cho bản thân như sử dụng MXH cho mục đích học tập.</li>
 <li>Đặt rõ khung thời gian sử dụng MXH.</li>
@@ -79,7 +79,7 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <a href="javascript:openpage(5)">Trò Chuyện</a>
 <a href="javascript:openpage(5)">Tài Liệu</a>
 </div>
-<div class="more"><span>Chúng tôi gồm Minh Trí và Quốc Uy - học sinh lớp 7A3 trường THPT chuyên Trần Đại Nghĩa. Chúng tôi tạo website này mong muốn các bạn đọc giả đặc biệt trong độ tuổi THCS có thể nhận thấy những tác hại của việc sử dụng mạng xã hội và tiếp cận được một số biện pháp giảm thiểu những tác hại ấy đối với việc học.</span></div>
+<div class="more"><span>Chúng tôi gồm Minh Trí và Quốc Uy - học sinh lớp 7A3 trường THPT chuyên Trần Đại Nghĩa. Chúng tôi tạo website này mong muốn các bạn đọc giả đặc biệt trong độ tuổi THCS có thể nhận thấy những tác động của việc sử dụng mạng xã hội và tiếp cận được một số biện pháp giảm thiểu những tác động ấy đối với việc học.</span></div>
 </div>
 <div class="footer">
 <a href="javascript:openpage(6)">Tìm hiểu thêm</a>
@@ -90,7 +90,7 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <div class="sb">
 <a href="javascript:openpage(0)">Trang Chủ</a>
 <a href="javascript:undopage()">Quay Về</a>
-<a href="javascript:openpage(1)">Tác Hại của MXH</a>
+<a href="javascript:openpage(1)">Tác Động của MXH</a>
 <a href="javascript:openpage(2)">Dùng MXH an toàn</a>
 <a href="javascript:openpage(3)">Tài nguyên hữu ích</a>
 <a href="javascript:openpage(4)">Về chúng tôi</a>
@@ -137,7 +137,7 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <a class="selhyp" href="javascript:openpage(10)">Cho Giáo Viên</a>
 </div>
 <div class="more">
-<span>Học sinh cần có nhận thức đúng về tầm quan trọng và tác hại của việc sử dụng MXH không đúng mục đích. Một số cách học sinh có thể sử dụng MXH một cách hiệu quả nhất như:</span>
+<span>Học sinh cần có nhận thức đúng về tầm quan trọng và tác động của việc sử dụng MXH không đúng mục đích. Một số cách học sinh có thể sử dụng MXH một cách hiệu quả nhất như:</span>
 <ul>
 <li>Đặt mục đích chính đáng sử dụng MXH cho bản thân như sử dụng MXH cho mục đích học tập.</li>
 <li>Đặt rõ khung thời gian sử dụng MXH.</li>
@@ -157,8 +157,8 @@ hello
 `
 ];
 var titles = [
-    "Những Tác Hại Của Mạng Xã Hội Đối Với Học Sinh THCS",
-    "Tác Hại Của Mạng Xã Hội",
+    "Những Tác Động Của Mạng Xã Hội Đối Với Học Sinh THCS",
+    "Tác Động Của Mạng Xã Hội",
     "Hướng Dẫn Sử Dụng Mạng Xã Hội An Toàn Dành Cho Học Sinh",
     "Tài Nguyên Hữu Ích",
     "Về Chúng Tôi",
@@ -171,7 +171,7 @@ var titles = [
     "file"
 ]
 var navbtn = [
-    "Tác Hại Của MXH",
+    "Tác Động Của MXH",
     "Sử Dụng MXH An Toàn",
     "Tài Nguyên Hữu Ích",
     "Về Chúng Tôi",
