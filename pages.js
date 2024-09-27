@@ -70,7 +70,7 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 </div>`,
 `<div class="full">
 <a href="file.docx" target="_blank" class="gotohyper">Tải Về</a>
-<a href="javascript:openpage(11)" class="gotohyper">Đến File</a>
+<a href="javascript:openpage(11)" class="gotohyper">Đến Trang</a>
 </div>`,
 `<div class="sbflexbox">
 <div class="sb">
@@ -150,9 +150,23 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
 <a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
 </div>`,
-`
-hello
-`
+`<div class="sbflexbox">
+<div class="sb">
+<a href="javascript:openpage(1)">Tác Động của MXH</a>
+<a href="javascript:openpage(2)">Dùng MXH an toàn</a>
+<a href="javascript:openpage(3)">Tài nguyên hữu ích</a>
+<a href="javascript:openpage(4)">Về chúng tôi</a>
+<a href="javascript:openpage(5)">Trò Chuyện</a>
+</div>
+<div class="more">
+<span>Với sự phát triền của công nghệ thông tin, mạng xã hội là nơi có nhiều cơ hội giúp các bạn học sinh nói chung và các bạn học sinh THCS nói riêng có thể tiếp cận được nhiều nguồn tài nguyên giúp ích cho việc học một cách nhanh nhất. Dưới đây là một số hình ảnh ví dụ về các nhóm cộng đồng trên Facebook giúp người học có thêm kênh trao dồi các kĩ năng Tiếng Anh hay các nhóm kĩ năng khác cho bản thân:</span>
+</div>
+</div>
+<div class="footer">
+<a href="javascript:openpage(6)">Tìm hiểu thêm</a>
+<a href="javascript:openpage(7)">Hướng dẫn cho phụ huynh</a>
+<a href="javascript:openpage(8)">Câu chuyện từ học sinh</a>
+</div>`
 ];
 var titles = [
     "Những Tác Động Của Mạng Xã Hội Đối Với Học Sinh THCS",
