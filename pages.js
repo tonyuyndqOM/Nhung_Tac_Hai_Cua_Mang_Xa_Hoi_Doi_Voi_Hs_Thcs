@@ -137,13 +137,11 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <a class="selhyp" href="javascript:openpage(10)">Cho Giáo Viên</a>
 </div>
 <div class="more">
-<span>Học sinh cần có nhận thức đúng về tầm quan trọng và tác động của việc sử dụng MXH không đúng mục đích. Một số cách học sinh có thể sử dụng MXH một cách hiệu quả nhất như:</span>
+<span>Giáo viên cần giáo dục học sinh về việc sử dụng MXH đúng cách, Một số cách giáo viên có thể làm thế như:</span>
 <ul>
-<li>Đặt mục đích chính đáng sử dụng MXH cho bản thân như sử dụng MXH cho mục đích học tập.</li>
-<li>Đặt rõ khung thời gian sử dụng MXH.</li>
-<li>Cần trang bị kiến thức bảo vệ bản thân trước tác động của MXH.</li>
-<li>Không truy cập vào các đường link (đường dẫn) không rõ ràng.</li>
-<li>Sử dụng một số ứng dụng CNTT để quản lý thời gian sử dụng MXH như Pomodoro, Screen Time, ...</li>
+<li>Giáo dục HS về kĩ năng quản lí thời gian.</li>
+<li>Dạy cách sử dụng công nghệ một cách có ích.</li>
+<li>Nhà trường nên đưa ra những quy định về việc sử dụng thiết bị điện tử và MXH trong trường.</li>
 </ul>
 </div>
 </div>
