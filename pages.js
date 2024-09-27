@@ -160,10 +160,10 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 </div>
 <div class="more">
 <span>Với sự phát triền của công nghệ thông tin, mạng xã hội là nơi có nhiều cơ hội giúp các bạn học sinh nói chung và các bạn học sinh THCS nói riêng có thể tiếp cận được nhiều nguồn tài nguyên giúp ích cho việc học một cách nhanh nhất. Dưới đây là một số hình ảnh ví dụ về các nhóm cộng đồng trên Facebook giúp người học có thêm kênh trao dồi các kĩ năng Tiếng Anh hay các nhóm kĩ năng khác cho bản thân:</span>
-<img src="1stfile.jpg" alt="ko load dc"/>
-<img src="2stfile.jpg" alt="ko load dc"/>
-<img src="3stfile.jpg" alt="ko load dc"/>
-<img src="4stfile.jpg" alt="ko load dc"/>
+<img src="1stfile.jpg" alt="ko load dc" width="618" height="1000"></img>
+<img src="2ndfile.jpg" alt="ko load dc" width="618" height="1000"></img>
+<img src="3rdfile.jpg" alt="ko load dc" width="618" height="1000"></img>
+<img src="4thfile.jpg" alt="ko load dc" width="618" height="1000"></img>
 </div>
 </div>
 <div class="footer">
