@@ -2,7 +2,7 @@ var pages = [
 `
 <div class="sbflexbox">
 <div class="sb">
-<a href="javascript:openpage(1)">Tác Động của MXH</a>
+<a href="javascript:openpage(1)">Tác Động của MXH</a>
 <a href="javascript:openpage(2)">Dùng MXH an toàn</a>
 <a href="javascript:openpage(3)">Tài nguyên hữu ích</a>
 <a href="javascript:openpage(4)">Về chúng tôi</a>
@@ -10,7 +10,7 @@ var pages = [
 </div>
 <div class="more">
 <div class="titleimg"></div>
-<h1>Những Tác Động Của Mạng Xã Hội Đối Với Học Sinh THCS</h1>
+<h1>Những Tác Động Của Mạng Xã Hội Đối Với Học Sinh THCS</h1>
 <span>
 Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống của học sinh trung học cơ sở (THCS) tại TP.HCM, đóng vai trò vừa là công cụ hỗ trợ học tập và kết nối xã hội, vừa là môi trường giải trí. Với sự phát triển mạnh mẽ của công nghệ thông tin, học sinh tại các thành phố lớn như TP.HCM dễ dàng tiếp cận các nền tảng như Facebook, Instagram, TikTok, tạo điều kiện cho các em chia sẻ kiến thức, trao đổi bài vở và mở rộng các mối quan hệ bạn bè. Việc sử dụng hợp lý, mạng xã hội có thể giúp học sinh phát triển kỹ năng giao tiếp, học hỏi từ cộng đồng và hỗ trợ trong việc tiếp cận thông tin nhanh chóng và hiệu quả. Đồng thời, các nền tảng này còn thúc đẩy sự sáng tạo thông qua việc tham gia các dự án trực tuyến, các hoạt động ngoại khóa hoặc tham gia nhóm học tập từ xa, đặc biệt hữu ích trong bối cảnh giãn cách xã hội do đại dịch COVID-19. Tuy nhiên, bên cạnh những lợi ích, việc sử dụng mạng xã hội quá mức cũng đặt ra nhiều thách thức, đặc biệt về sức khỏe tâm lý và kết quả học tập của học sinh. Việc dành quá nhiều thời gian trên các nền tảng trực tuyến có thể dẫn đến các vấn đề về căng thẳng, lo âu, thậm chí là trầm cảm, do áp lực phải duy trì hình ảnh và so sánh bản thân với những hình mẫu lý tưởng không thực tế. Ngoài ra, sự phụ thuộc vào mạng xã hội còn gây ra suy giảm khả năng tập trung, giảm hiệu quả trong việc hoàn thành bài tập và học tập, do học sinh bị xao nhãng bởi các nội dung giải trí hoặc tương tác không liên quan. Thêm vào đó, hiện tượng bắt nạt qua mạng (cyberbullying) cũng ngày càng phổ biến, gây ảnh hưởng tiêu cực đến tâm lý và hành vi của các em.
 </span><br/>
@@ -90,7 +90,7 @@ Mạng xã hội đã trở thành một phần quan trọng trong cuộc sống
 <div class="sb">
 <a href="javascript:openpage(0)">Trang Chủ</a>
 <a href="javascript:undopage()">Quay Về</a>
-<a href="javascript:openpage(1)">Tác Động của MXH</a>
+<a href="javascript:openpage(1)">Tác Động của MXH</a>
 <a href="javascript:openpage(2)">Dùng MXH an toàn</a>
 <a href="javascript:openpage(3)">Tài nguyên hữu ích</a>
 <a href="javascript:openpage(4)">Về chúng tôi</a>
@@ -157,8 +157,8 @@ hello
 `
 ];
 var titles = [
-    "Những Tác Động Của Mạng Xã Hội Đối Với Học Sinh THCS",
-    "Tác Động Của Mạng Xã Hội",
+    "Những Tác Động Của Mạng Xã Hội Đối Với Học Sinh THCS",
+    "Tác Động Của Mạng Xã Hội",
     "Hướng Dẫn Sử Dụng Mạng Xã Hội An Toàn Dành Cho Học Sinh",
     "Tài Nguyên Hữu Ích",
     "Về Chúng Tôi",
@@ -171,7 +171,7 @@ var titles = [
     "file"
 ]
 var navbtn = [
-    "Tác Động Của MXH",
+    "Tác Động Của MXH",
     "Sử Dụng MXH An Toàn",
     "Tài Nguyên Hữu Ích",
     "Về Chúng Tôi",
